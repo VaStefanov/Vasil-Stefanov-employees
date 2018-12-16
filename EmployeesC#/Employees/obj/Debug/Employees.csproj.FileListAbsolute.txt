@@ -1,0 +1,6 @@
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\bin\Debug\Employees.exe.config
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\bin\Debug\Employees.exe
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\bin\Debug\Employees.pdb
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\obj\Debug\Employees.exe
+C:\Users\Vasil\source\repos\EmployeesC#\Employees\obj\Debug\Employees.pdb
